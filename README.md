@@ -51,7 +51,7 @@ A modern web application that demonstrates the integration of Django, Go, and Ty
 
 ## Project Structure
 
-```
+```plaintext
 django-go-typescript-project/
 ├── .git/
 ├── .gitignore
@@ -142,9 +142,10 @@ django-go-typescript-project/
    ```
 
 3. **Access Development Servers**:
-   - Django: http://localhost:8000
-   - Go services: http://localhost:8080
-   - Frontend dev server: http://localhost:3000
+
+   - Django: <http://localhost:8000>
+   - Go services: <http://localhost:8080>
+   - Frontend dev server: <http://localhost:3000>
 
 ## Practical Use Cases
 
@@ -275,7 +276,7 @@ docker-compose -f docker-compose.prod.yml up -d
 
 ## Additional Resources
 
-- Django Documentation: https://docs.djangoproject.com/
-- Go Documentation: https://golang.org/doc/
-- TypeScript Documentation: https://www.typescriptlang.org/docs/
-- Bootstrap Documentation: https://getbootstrap.com/docs/
+- Django Documentation: <https://docs.djangoproject.com/>
+- Go Documentation: <https://golang.org/doc/>
+- TypeScript Documentation: <https://www.typescriptlang.org/docs/>
+- Bootstrap Documentation: <https://getbootstrap.com/docs/>
